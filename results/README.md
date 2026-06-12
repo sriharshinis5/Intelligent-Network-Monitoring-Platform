@@ -1,5 +1,6 @@
-## Results
-
-### Network Latency Analysis
-
-![Traffic Analysis](results/traffic_analysis.png)
+Results
+├── Network Latency Analysis
+│    └── Graph
+│
+└── Feature Importance Analysis
+     └── Graph
